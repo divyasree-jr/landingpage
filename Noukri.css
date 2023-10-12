@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    background-color: #381c8c;
+    padding: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.second-maincontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pp {
+    margin-left: 10px;
+}
+
+.up-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Startup {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.remaining-options {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.genarate {
+    font-size: 27px;
+    font-weight: bold;
+
+}
+
+.second-para {
+    font-size: 15px;
+}
+
+.twitter-button {
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-width: 0px;
+    background-color: #1aa3ed;
+}
+
+.signin-button {
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-width: 0px;
+    background-color: #381c8c;
+}
+
+.pink-button {
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-width: 0px;
+    background-color: #ed1a7d;
+}
+
+.overview {
+    color: #9eb0ba;
+}
+
+.spam {
+    color: #2cd4cb;
+    font-size: 12px;
+}
+
+.endline {
+    font-size: 12px;
+    color: #9eb0ba;
+}
+
+.signup {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.p {
+    font-size: 10px;
+}
+
+.form {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.signup-Container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+
+}
